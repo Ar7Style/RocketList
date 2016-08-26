@@ -1,0 +1,6 @@
+framework module Pods_RocketListToday {
+  umbrella header "Pods-RocketListToday-umbrella.h"
+
+  export *
+  module * { export * }
+}

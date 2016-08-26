@@ -1,0 +1,6 @@
+framework module Pods_Rocketlist {
+  umbrella header "Pods-Rocketlist-umbrella.h"
+
+  export *
+  module * { export * }
+}
