@@ -1,5 +1,8 @@
 # RocketList
-Todo list with cloud synchronization used Firebase and FirebaseUI
+Todo list with cloud synchronization for iOS.
+Used technology: Firebase and FirebaseUI (for auth), AFNetworking, InputView, SwipeToDeleteCells, Async tasks, Today extension (Widget), pull-to-refresh swipe, gesture recognision.
+
+Available in AppStore: https://itunes.apple.com/ru/app/rocketlist/id1124522424?mt=8
 
 
 
